@@ -1,4 +1,4 @@
-schemaVersion: 1.0 
+schemaVersion: 1.1
 endpoints:
 - name: seo_analyzer_backend
   service:
