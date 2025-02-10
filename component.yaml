@@ -1,0 +1,6 @@
+schemaVersion: 1.0 
+endpoints:
+- name: seo_analyzer_backend
+  service:
+     port: 8002
+  type: REST
